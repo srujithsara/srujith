@@ -1,0 +1,6 @@
+{
+  "name": "CreatorVerse",
+  "description": "Where Ideas Meet Creators — An all-in-one creator ecosystem connecting creators, ideas, trending audio, AI ideation, collaborations, and brand campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
